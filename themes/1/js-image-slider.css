@@ -6,9 +6,7 @@
 #sliderFrame 
 {
     position:relative;
-    width:700px;
-    margin-left: 15%;
-	margin-right: 15%;
+    
 }
 
 #slider, #slider div.sliderInner {
